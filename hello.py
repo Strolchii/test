@@ -1,6 +1,6 @@
 print("hi")
 
-print("Tschüss")
+print("Tschükjss")
 
 str = "sdsdssd"
 
