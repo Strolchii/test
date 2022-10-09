@@ -1,6 +1,10 @@
 print("hi")
 
-print("Tschüss")
+print("Tschükjss")
+
+str = "sdsdssd"
+
+print(str)
 
 inti = 2323232
 
